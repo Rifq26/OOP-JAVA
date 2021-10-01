@@ -28,7 +28,7 @@ public class introductionClassAndObject {
         // object mahasiswa2
         Mahasiswa mahasiswa2 = new Mahasiswa();
         mahasiswa2.nama = "Java Javac";
-        mahasiswa2.NIM = "2020071014";
+        mahasiswa2.NIM = "202xxxxx";
         mahasiswa2.jurusan = "Informatika";
         mahasiswa2.IPK = 3.5;
         mahasiswa2.umur = 25;
