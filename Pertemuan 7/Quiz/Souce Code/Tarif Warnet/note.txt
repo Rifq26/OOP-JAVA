@@ -1,0 +1,7 @@
+/*
+    NAMA            : RIFQI MUHAMMAD
+    NIM             : 2020071014
+    PROGRAM STUDI   : INFORMATIKA
+ */
+
+assalamualaikum pak, maaf sebelumnya untuk program menghitung Nilai belum bisa keluar hasil Nilai Total, dikarenakan input data nilai saya simpan didalam arrayList dan untuk menjumlahkan masing-masing didalam index array belum bisa dan selalu error. untuk menghindari telat upload tugas maka saya upload di collabor.
